@@ -3,6 +3,9 @@
 #### Nosso objetivo foi destacar as habilidades interpessoais essenciais para o mercado de trabalho.
 #### Para isso, optamos por criar uma landing page que apresentasse as soft skills escolhidas.
 #### Utilizamos HTML, CSS e JavaScript para desenvolver essa plataforma.
+
+#### Acesse em: https://davirsouza.github.io/Projeto-Soft-Skills/
+
 ### Algumas imagens do projeto: 
 
 #### no computador:
